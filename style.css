@@ -58,7 +58,7 @@ header{
 
 /* nav styles */
 
-.nav-bar{
+.navbar{
     display: flex;
     justify-content: space-between;
     max-width: 1170px;
