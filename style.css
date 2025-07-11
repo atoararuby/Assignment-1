@@ -308,7 +308,7 @@ form input[type="text"], form input[type="email"], form textarea{
 }
 
 /* footer styles */
-.footer-section{
+.footer_section{
     background-color: #efecec;
     max-width: 1170px;
     margin: 0 auto;
@@ -316,7 +316,7 @@ form input[type="text"], form input[type="email"], form textarea{
     padding: 104px 450px;
 }
 
-.footer-align{
+.footer{
     padding: 20px;
 }
 
